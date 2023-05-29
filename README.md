@@ -8,6 +8,6 @@ docker network create kong-net
 ```bash
 # criar ambiente docker
 # para gerar o ambiente vc deve está na pasta compose
-# docker-kong/compose
+# compose
 docker compose up -d
 ```
